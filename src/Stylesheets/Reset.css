@@ -1,0 +1,9 @@
+.resetbutton {
+    width: fit-content;
+    height: fit-content;
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    -ms-transform: (0%, -50%);
+    transform: (0%, -50%);
+}
