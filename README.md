@@ -1,4 +1,4 @@
-Erste Schritte mit TSX (TypeScript + React).
+# Dies waren meine ersten Schritte mit TSX (TypeScript + React).
 
 
 
